@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ball_size">40dp</dimen>
+    <dimen name="ball_text_size">16sp</dimen>
+    <dimen name="ball_margin">4dp</dimen>
+</resources> 

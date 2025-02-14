@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">彩票助手</string>
+    
+    <!-- 主页 -->
+    <string name="latest_results">最新开奖</string>
+    <string name="history_query">历史查询</string>
+    <string name="prediction">智能预测</string>
+    
+    <!-- 详情页 -->
+    <string name="result_detail">开奖详情</string>
+    <string name="attribute_analysis">属性分析</string>
+    <string name="statistics">统计分析</string>
+    <string name="chart_analysis">图表分析</string>
+    
+    <!-- 分析类型 -->
+    <string name="history_analysis">历史分析</string>
+    <string name="pattern_analysis">规律分析</string>
+    <string name="prediction_analysis">预测分析</string>
+    
+    <!-- 属性标签 -->
+    <string name="zodiac">生肖</string>
+    <string name="element">五行</string>
+    <string name="odd_even">奇偶</string>
+    <string name="big_small">大小</string>
+    
+    <!-- 统计信息 -->
+    <string name="sum">和值</string>
+    <string name="consecutive">连号</string>
+    <string name="interval">间隔</string>
+    <string name="distance">距离值</string>
+    
+    <!-- 新添加的字符串资源 -->
+    <string name="tab_trend">走势分析</string>
+    <string name="trend_statistics">走势统计</string>
+    <string name="hot_numbers">最热号码</string>
+    <string name="cold_numbers">最冷号码</string>
+</resources> 
